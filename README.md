@@ -1,0 +1,2 @@
+# loopsInjava
+problems on iteration
